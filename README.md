@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @polalefta
-- 👀 I’m interested in Python Flet App
+- 👀 I’m interested in Python  App
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Flet App
+- 💞️ I’m looking to collaborate on Python  App
 - 📫 How to reach me Message
 
 <!---
